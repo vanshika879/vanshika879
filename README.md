@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">I am currently learning Data Science</h3>
-<img align="right"alt="coding"width="400" src = "![image](https://github.com/vanshika879/vanshika879/assets/137144960/2efa30e5-b4df-4271-89c5-ce6ba05da39a)
-">
-
+ <img align="right"alt="coding"width="400"src ="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika879&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika879" /> </p>
 
